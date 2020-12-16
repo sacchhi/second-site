@@ -1,0 +1,232 @@
+.ctr1{
+  background-color: white;
+  height: 420px;
+  padding-top: 25px;
+}
+
+.ycocktail{
+  background-color: red;
+  width: 600px;
+  height: 600px;
+  transform: rotate(15deg);
+  position: absolute;
+  top: 9px;
+  right: 437px;
+  left: 295px;
+}
+
+ h1 {
+  color: #686d76;
+  padding-top: 105px;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 900;
+  font-size: 3.5rem;
+  width: 800px;
+
+}
+
+.ctr2{
+  text-align: center;
+  background-color: #ffd31d;
+  height: 180px;
+  z-index: 2;
+  position: relative;
+  bottom: 20px;
+}
+ h2{
+  font-family: Montserrat;
+  font-size: 3.5rem;
+  color: white;
+  padding-top: 60px;
+  font-weight: 900;
+}
+
+.rcocktail{
+  background-color: white;
+  width: 250px;
+  height: 400px;
+  transform: rotate(15deg);
+  position: absolute;
+  top: 65px;
+  right: 75px;
+}
+
+.nvr{
+  padding-top: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+.bg-light{
+  background-color: #f8f9fa;
+}
+/************testimonials************/
+
+.firstimg{
+  height: 750px;
+  width: 90px;
+}
+
+.secondimg{
+  height: 750px;
+ width: 90px;
+}
+
+.thirdimg{
+    height: 750px;
+}
+
+.firsttext{
+   padding-top: 0;
+   position: absolute;
+   bottom: 400px;
+   left: 700px;
+   color: white;
+}
+
+.firstbtn{
+  position: relative;
+  bottom: 300px;
+  left: 1025px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+
+ .secondtext{
+   padding-top: 0;
+   position: absolute;
+   bottom: 450px;
+   right: 700px;
+   color: #fff;
+ }
+
+ .secondbtn{
+   position: relative;
+   bottom: 370px;
+   left: 420px;
+   padding-left: 35px;
+   padding-right: 35px;
+ }
+
+ .thirdtext{
+   padding-top: 0;
+   position: absolute;
+   bottom: 400px;
+   left: 700px;
+   color: white;
+ }
+
+ .thirdbtn{
+   position: relative;
+   bottom: 290px;
+   left: 1025px;
+   padding-left: 35px;
+   padding-right: 35px;
+ }
+
+ .pnn {
+   width: 400px;
+   height: 280px;
+ }
+
+ .ctr4{
+   width: 1600px;
+   padding-left: 2px;
+ }
+
+.ctr3{
+  text-align: center;
+  background-color: #54e346;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.pnn1{
+  font-size: 2.5rem;
+  margin-left: 400px;
+  padding: 23px 0;
+  color: white;
+}
+
+.ctr5{
+  background-color: #ffd31d;
+  margin-top: 10px;
+  height: 150px;
+  margin-bottom: 10px;
+}
+
+.lasttxt{
+  position: relative;
+  left: 300px;
+  bottom: 25px;
+  font-size: 3.5rem;
+  color: white;
+}
+
+
+
+
+.icn{
+  padding: 0 10px 0 10px;
+}
+
+.flight{
+  position: relative;
+  left: 85px;
+}
+
+.pricing{
+  margin-left: 99px;
+}
+.car{
+  position: relative;
+  left: 98px;
+}
+.ship{
+  position: relative;
+  left: 98px;
+}
+.prc{
+  margin-bottom: 10px;
+  height: 450px;
+  background-image: url(https://cdn.cnn.com/cnnnext/dam/assets/181010131059-australia-best-beaches-cossies-beach-cocos3.jpg);
+}
+
+.prc1{
+  margin-top: 90px;
+
+}
+
+.ctr6{
+  text-align: left;
+  height: 200px;
+  background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2012/08/14/10953/4b462050ad0a4593570094c0a90f733f.jpg);
+
+}
+
+.contacttxt{
+  font-size: 2rem;
+  padding-top: 20px;
+  font-family: Russo One;
+  font-weight: 400;
+  margin-left: 20px;
+  padding-bottom: 30px;
+  color: white;
+
+}
+
+.yo{
+  margin-left: 12px;
+  color: white;
+}
+
+.forum{
+  margin-top: 40px;
+}
+
+.frm{
+  font-family: Russo One;
+  font-weight: 400;
+}
